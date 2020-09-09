@@ -1,0 +1,13 @@
+C:\Users\MIkaela\Desktop\UWC COURSE\Visual Studio\uwclearningdotnet\mgabrielscode\bin\Debug\netcoreapp3.1\uwclearningdotnet.exe
+C:\Users\MIkaela\Desktop\UWC COURSE\Visual Studio\uwclearningdotnet\mgabrielscode\bin\Debug\netcoreapp3.1\uwclearningdotnet.deps.json
+C:\Users\MIkaela\Desktop\UWC COURSE\Visual Studio\uwclearningdotnet\mgabrielscode\bin\Debug\netcoreapp3.1\uwclearningdotnet.runtimeconfig.json
+C:\Users\MIkaela\Desktop\UWC COURSE\Visual Studio\uwclearningdotnet\mgabrielscode\bin\Debug\netcoreapp3.1\uwclearningdotnet.runtimeconfig.dev.json
+C:\Users\MIkaela\Desktop\UWC COURSE\Visual Studio\uwclearningdotnet\mgabrielscode\bin\Debug\netcoreapp3.1\uwclearningdotnet.dll
+C:\Users\MIkaela\Desktop\UWC COURSE\Visual Studio\uwclearningdotnet\mgabrielscode\bin\Debug\netcoreapp3.1\uwclearningdotnet.pdb
+C:\Users\MIkaela\Desktop\UWC COURSE\Visual Studio\uwclearningdotnet\mgabrielscode\obj\Debug\netcoreapp3.1\uwclearningdotnet.csprojAssemblyReference.cache
+C:\Users\MIkaela\Desktop\UWC COURSE\Visual Studio\uwclearningdotnet\mgabrielscode\obj\Debug\netcoreapp3.1\uwclearningdotnet.AssemblyInfoInputs.cache
+C:\Users\MIkaela\Desktop\UWC COURSE\Visual Studio\uwclearningdotnet\mgabrielscode\obj\Debug\netcoreapp3.1\uwclearningdotnet.AssemblyInfo.cs
+C:\Users\MIkaela\Desktop\UWC COURSE\Visual Studio\uwclearningdotnet\mgabrielscode\obj\Debug\netcoreapp3.1\uwclearningdotnet.csproj.CoreCompileInputs.cache
+C:\Users\MIkaela\Desktop\UWC COURSE\Visual Studio\uwclearningdotnet\mgabrielscode\obj\Debug\netcoreapp3.1\uwclearningdotnet.dll
+C:\Users\MIkaela\Desktop\UWC COURSE\Visual Studio\uwclearningdotnet\mgabrielscode\obj\Debug\netcoreapp3.1\uwclearningdotnet.pdb
+C:\Users\MIkaela\Desktop\UWC COURSE\Visual Studio\uwclearningdotnet\mgabrielscode\obj\Debug\netcoreapp3.1\uwclearningdotnet.genruntimeconfig.cache
